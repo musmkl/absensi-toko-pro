@@ -1,0 +1,22 @@
+{
+  "name": "Absensi Toko Pro Secure",
+  "short_name": "ATP Secure",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00529C",
+  "orientation": "portrait",
+  "description": "Offline-first attendance app with QR, GPS, selfie and cloud backup.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
